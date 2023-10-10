@@ -5,7 +5,7 @@ function Serviceheader() {
   return (
     <section className="relative py-10 overflow-hidden bg-black sm:py-16 lg:py-24 xl:py-20">
     <div className="absolute inset-0">
-        <Image className="object-cover w-full h-full md:object-left md:scale-150 md:origin-top-left" src="https://cdn.rareblocks.xyz/collection/celebration/images/cta/5/girl-working-on-laptop.jpg" alt="" width={1920} height={1920} />
+        <Image className="object-cover w-full h-full md:object-left md:scale-150 md:origin-top-left" src="https://res.cloudinary.com/dysxcljt2/image/upload/v1695300273/yoga/hopefilmphoto-QiYZCKJQMck-unsplash_yumfqx.jpg" alt="" width={1920} height={1920} />
     </div>
 
     <div className="absolute inset-0 hidden bg-gradient-to-r md:block from-black to-transparent"></div>

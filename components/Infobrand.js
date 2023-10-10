@@ -8,7 +8,7 @@ function Infobrand() {
         <div className="grid items-center grid-cols-1 lg:items-stretch md:grid-cols-2 gap-y-8 gap-x-12 xl:gap-x-20">
             <div className="relative">
                 <div className="aspect-w-4 aspect-h-3">
-                    <Image className="object-cover w-full h-full" src="https://cdn.rareblocks.xyz/collection/celebration/images/testimonials/5/man-using-phone.jpg" alt="" width={1920} height={1920} />
+                    <Image className="object-cover w-full h-full" src="https://res.cloudinary.com/dysxcljt2/image/upload/v1695300273/yoga/hopefilmphoto-QiYZCKJQMck-unsplash_yumfqx.jpg" alt="" width={1920} height={1920} />
                 </div>
 
                 <div className="absolute inset-0 flex items-center justify-center">
